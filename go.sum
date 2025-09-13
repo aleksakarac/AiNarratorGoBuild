@@ -1,0 +1,13 @@
+require (
+	github.com/faiface/beep v1.1.0
+	github.com/goccy/go-json v0.10.3 // indirect
+	github.com/hajimehoshi/go-mp3 v0.3.4 // indirect
+	github.com/hajimehoshi/oto v0.11.1 // indirect
+	github.com/k0kubun/pp v9.0.0+incompatible // indirect
+	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-isatty v0.0.20 // indirect
+	github.com/mattn/go-runewidth v0.0.15 // indirect
+	github.com/pkg/errors v0.9.1 // indirect
+	github.com/rivo/uniseg v0.4.7 // indirect
+	golang.org/x/sys v0.18.0 // indirect
+)
